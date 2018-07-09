@@ -1,6 +1,6 @@
 # Social header react native
 
-A component to use on you new social app. Profile picture, cover picture, full name, username and a textbox for a short bio.
+A component to use on your new social app. Profile picture, cover picture, full name, username and a textbox for a short bio.
 
 ![](screens/socialheaderreadmore.PNG)
 
